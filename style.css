@@ -1,0 +1,18 @@
+body{
+    font-family: 'Krona One', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.myname{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    padding-left: 2%;
+    margin-left: 5%;
+}
+.half-width img{
+    width: 100%;
+}
